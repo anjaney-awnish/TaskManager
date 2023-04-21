@@ -1,4 +1,7 @@
-Task Manager
+Task Manager:
+
+
+
 A simple CRUD application for managing tasks.
 Installation
 To install the Task Manager, follow these steps:
@@ -11,7 +14,9 @@ To install the Task Manager, follow these steps:
 3. Install the dependencies:
    npm install
 
-Usage
+Usage:
+
+
 To use the Task Manager, follow these steps:
 
 1. Start the application: npm start
@@ -39,7 +44,8 @@ To use the Task Manager, follow these steps:
 Replace :id with the ID of the task you want to delete.
   
   
-Project Structure
+Project Structure:
+
 The Task Manager project has the following structure:
 
   
@@ -65,7 +71,8 @@ The Task Manager project has the following structure:
     • src/routes contains the routers that handle the API routes.
     • src/tasks.json contains the data for the tasks.
 
-Contributing
+Contributing:
+
 If you want to contribute to the Task Manager project, please open an issue or submit a pull request. We welcome all contributions!
 
 
